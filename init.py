@@ -27,6 +27,10 @@ def main(now):
       "id": l_friend_id,
     },
     {
+      "name": "Winston",
+      "id": w_friend_id,
+    },
+    {
       "name": "Elena",
       "id": e_friend_id,
     },
